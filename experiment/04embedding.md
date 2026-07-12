@@ -15,6 +15,8 @@
 
 文本1与文本3的相似度（预期：应该较低，主题完全不同）
 
+![代码](https://github.com/10086lilili/ai-learning/blob/main/diagrams/04exp%E4%BB%A3%E7%A0%81%E6%88%AA%E5%9B%BE.png?raw=true)
+
 实验结果:
 
 文本1与文本2相似度：0.0862
