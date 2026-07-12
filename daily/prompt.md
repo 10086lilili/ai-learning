@@ -33,23 +33,7 @@ Prompt Builder 接收多个模块的数据，而不仅仅是学生输入。
 
 ## Prompt 构建流程
 
-   学生输入知识点
-        │
-        ▼
- 检索器检索教材内容
-        │
-        ▼
- Prompt Builder
-        │
-        ▼
- 构建完整 Prompt
-        │
-        ▼
-   调用大模型
-        │
-        ▼
- 返回 JSON 格式题目
-
+学生输入知识点->检索器检索教材内容->Prompt Builder->构建完整 Prompt->调用大模型->返回 JSON 格式题目
 
 Prompt Builder 位于知识检索与大模型之间，负责连接业务逻辑和模型推理过程。
 
