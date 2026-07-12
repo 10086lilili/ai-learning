@@ -12,9 +12,8 @@ Prompt B（指定教材范围）：“根据《数据结构》教材第五章AVL
 
 实验结果
 
-A:！[代码]("C:\Users\24939\Pictures\联想安卓照片\Screenshots\屏幕截图 2026-07-13 014129.png")
+！[实验结果截图](https://github.com/10086lilili/ai-learning/blob/main/diagrams/01exp%E4%BB%A3%E7%A0%81%E7%BB%93%E6%9E%9C%E6%88%AA%E5%9B%BE.jpg?raw=true)
 
-B:！[代码]("C:\Users\24939\Pictures\联想安卓照片\Screenshots\屏幕截图 2026-07-13 014139.png")
 
 结果分析:
 
