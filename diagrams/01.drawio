@@ -1,0 +1,71 @@
+<mxfile host="app.diagrams.net">
+  <diagram name="第 1 页" id="KJzcn82mRPZN7ZLXZjkm">
+    <mxGraphModel dx="1193" dy="775" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="827" pageHeight="1169" math="0" shadow="0">
+      <root>
+        <mxCell id="0" />
+        <mxCell id="1" parent="0" />
+        <mxCell id="5P-VIeuCS6NQ8PFsbLSX-10" edge="1" parent="1" source="5P-VIeuCS6NQ8PFsbLSX-1" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=0.5;entryY=0;entryDx=0;entryDy=0;" target="5P-VIeuCS6NQ8PFsbLSX-7">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="5P-VIeuCS6NQ8PFsbLSX-1" parent="1" style="rounded=0;whiteSpace=wrap;html=1;" value="学生" vertex="1">
+          <mxGeometry height="60" width="120" x="30" y="52.5" as="geometry" />
+        </mxCell>
+        <mxCell id="5P-VIeuCS6NQ8PFsbLSX-11" edge="1" parent="1" source="5P-VIeuCS6NQ8PFsbLSX-7" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=0.5;entryY=0;entryDx=0;entryDy=0;" target="5P-VIeuCS6NQ8PFsbLSX-8">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="5P-VIeuCS6NQ8PFsbLSX-7" parent="1" style="rounded=0;whiteSpace=wrap;html=1;" value="prompt" vertex="1">
+          <mxGeometry height="60" width="120" x="30" y="182.5" as="geometry" />
+        </mxCell>
+        <mxCell id="5P-VIeuCS6NQ8PFsbLSX-12" edge="1" parent="1" source="5P-VIeuCS6NQ8PFsbLSX-8" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=0.5;exitY=1;exitDx=0;exitDy=0;entryX=0.5;entryY=0;entryDx=0;entryDy=0;" target="5P-VIeuCS6NQ8PFsbLSX-9">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="5P-VIeuCS6NQ8PFsbLSX-8" parent="1" style="rounded=0;whiteSpace=wrap;html=1;" value="模型api" vertex="1">
+          <mxGeometry height="60" width="120" x="30" y="312.5" as="geometry" />
+        </mxCell>
+        <mxCell id="5P-VIeuCS6NQ8PFsbLSX-9" parent="1" style="rounded=0;whiteSpace=wrap;html=1;" value="题目" vertex="1">
+          <mxGeometry height="60" width="120" x="30" y="447.5" as="geometry" />
+        </mxCell>
+        <mxCell id="5P-VIeuCS6NQ8PFsbLSX-13" parent="1" style="rounded=0;whiteSpace=wrap;html=1;" value="问题" vertex="1">
+          <mxGeometry height="70" width="216" x="400" y="90" as="geometry" />
+        </mxCell>
+        <mxCell id="5P-VIeuCS6NQ8PFsbLSX-14" parent="1" style="rounded=0;whiteSpace=wrap;html=1;" value="不知道教材" vertex="1">
+          <mxGeometry height="40" width="120" x="210" y="210" as="geometry" />
+        </mxCell>
+        <mxCell id="5P-VIeuCS6NQ8PFsbLSX-16" parent="1" style="rounded=0;whiteSpace=wrap;html=1;" value="难度不可控" vertex="1">
+          <mxGeometry height="40" width="120" x="370" y="210" as="geometry" />
+        </mxCell>
+        <mxCell id="5P-VIeuCS6NQ8PFsbLSX-17" parent="1" style="rounded=0;whiteSpace=wrap;html=1;" value="知识点覆盖不可控" vertex="1">
+          <mxGeometry height="40" width="120" x="530" y="210" as="geometry" />
+        </mxCell>
+        <mxCell id="5P-VIeuCS6NQ8PFsbLSX-18" parent="1" style="rounded=0;whiteSpace=wrap;html=1;" value="输出不稳定" vertex="1">
+          <mxGeometry height="40" width="120" x="690" y="210" as="geometry" />
+        </mxCell>
+        <mxCell id="5P-VIeuCS6NQ8PFsbLSX-19" edge="1" parent="1" style="endArrow=classic;html=1;rounded=0;entryX=1;entryY=0;entryDx=0;entryDy=0;" target="5P-VIeuCS6NQ8PFsbLSX-14" value="">
+          <mxGeometry height="50" relative="1" width="50" as="geometry">
+            <Array as="points" />
+            <mxPoint x="400" y="160" as="sourcePoint" />
+            <mxPoint x="350" y="210" as="targetPoint" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="5P-VIeuCS6NQ8PFsbLSX-20" edge="1" parent="1" style="endArrow=classic;html=1;rounded=0;entryX=0.5;entryY=0;entryDx=0;entryDy=0;" target="5P-VIeuCS6NQ8PFsbLSX-16" value="">
+          <mxGeometry height="50" relative="1" width="50" as="geometry">
+            <mxPoint x="470" y="160" as="sourcePoint" />
+            <mxPoint x="450" y="240" as="targetPoint" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="5P-VIeuCS6NQ8PFsbLSX-23" edge="1" parent="1" style="endArrow=classic;html=1;rounded=0;entryX=0.5;entryY=0;entryDx=0;entryDy=0;" target="5P-VIeuCS6NQ8PFsbLSX-17" value="">
+          <mxGeometry height="50" relative="1" width="50" as="geometry">
+            <mxPoint x="540" y="160" as="sourcePoint" />
+            <mxPoint x="570" y="210" as="targetPoint" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="5P-VIeuCS6NQ8PFsbLSX-24" edge="1" parent="1" style="endArrow=classic;html=1;rounded=0;entryX=0.5;entryY=0;entryDx=0;entryDy=0;" target="5P-VIeuCS6NQ8PFsbLSX-18" value="">
+          <mxGeometry height="50" relative="1" width="50" as="geometry">
+            <mxPoint x="616" y="160" as="sourcePoint" />
+            <mxPoint x="656" y="210" as="targetPoint" />
+          </mxGeometry>
+        </mxCell>
+      </root>
+    </mxGraphModel>
+  </diagram>
+</mxfile>
