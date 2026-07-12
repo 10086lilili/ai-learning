@@ -2,6 +2,9 @@
 
 实验方法:对同一段文本按不同Chunk Size切分，观察切分后每个chunk的完整性（是否在句子中间被切断）、片段数量、以及每个片段是否能独立表达完整语义。
 
+![实验](https://github.com/10086lilili/ai-learning/blob/main/diagrams/03exp%E4%BB%A3%E7%A0%81%E6%88%AA%E5%9B%BE.png?raw=true)
+
+![实验](https://github.com/10086lilili/ai-learning/blob/main/diagrams/03exp%E5%AE%9E%E9%AA%8C%E7%BB%93%E6%9E%9C%E6%88%AA%E5%9B%BE.jpg?raw=true)
 实验结果:
 
 | Chunk Size | 切分片段数 | 是否常在句中被切断 | 语义完整性 |
