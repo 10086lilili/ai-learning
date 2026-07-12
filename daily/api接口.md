@@ -16,21 +16,32 @@
 
 {
     "course":"数据结构",
+   
     "knowledge_point":"AVL树",
+    
     "question_type":"选择题",
+    
     "difficulty":"中等",
+   
     "count":5
+
 }
 
----
 
 返回结果
 
 {
+    
     "question":"",
+    
     "options":[],
+   
     "answer":"",
+    
     "analysis":"",
+    
     "difficulty":"",
+   
     "knowledge_point":""
+
 }
