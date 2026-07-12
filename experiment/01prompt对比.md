@@ -8,7 +8,7 @@ Prompt A（直接问）：“生成一道AVL树的练习题”
 
 Prompt B（指定教材范围）：“根据《数据结构》教材第五章AVL树的旋转操作，生成一道选择题”
 
-![代码](https://github.com/10086lilili/ai-learning/blob/main/diagrams/01exp%E4%BB%A3%E7%A0%81%E6%88%AA%E5%9B%BE.png?raw=true))
+![代码](https://github.com/10086lilili/ai-learning/blob/main/diagrams/01exp%E4%BB%A3%E7%A0%81%E6%88%AA%E5%9B%BE.png?raw=true)
 
 实验结果
 
