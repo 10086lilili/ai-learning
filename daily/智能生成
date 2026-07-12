@@ -1,0 +1,51 @@
+智能题目生成模块
+
+**整体架构**
+
+学生输入知识点->Knowledge Analyzer（知识点分析）->Retriever（知识检索）->Prompt Builder（Prompt构建）->model->Question Generator（题目生成）->Answer Generator（答案生成）->Explanation Generator（解析生成）->Quality Checker（质量检测）->Output Parser（JSON解析）->返回前端
+
+各模块职责
+
+1、Knowledge Analyzer
+
+负责分析学生输入的知识点。
+
+输入：AVL树
+
+输出：
+
+课程：数据结构
+
+章节：树
+
+知识点：AVL树
+
+2、Retriever
+
+根据知识点检索课程知识，保证生成内容来源于教材。
+
+
+3、Prompt Builder
+
+根据：课程、知识点、教材内容、题型、难度自动构建Prompt。
+
+4、Question Generator
+
+调用model生成题目。
+
+5、Answer Generator
+
+生成标准答案。
+
+6、Explanation Generator
+
+生成解析,解释为什么答案正确。
+
+7、Quality Checker
+
+检测：JSON格式、答案完整性、知识点一致性、重复率、难度
+
+8、Output Parser
+
+统一输出JSON，方便前端直接解析。
+
